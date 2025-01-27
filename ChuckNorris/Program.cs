@@ -5,7 +5,7 @@ class Program(){
 
   static async void getJoke(){
   using (HttpClient chuckNorris = new HttpClient()){
-      chuckNorris.BaseAddress = new Uri("https://api.chucknorris.io/");
+      chuckNorris.BaseAddress = new Uri("https://api.chucknorris.io/jokes/random?category={category}");
        try{
       HttpResponseMessage response = await chuckNorris.GetAsync("jokes/random");
       response.EnsureSuccessStatusCode();
