@@ -3,9 +3,9 @@
 
 class Program(){
 
-  static async void getJoke(){
+  static async Task Main(){
   using (HttpClient chuckNorris = new HttpClient()){
-      chuckNorris.BaseAddress = new Uri("https://api.chucknorris.io/jokes/random?category={category}");
+      chuckNorris.BaseAddress = new Uri("https://api.chucknorris.io/");
        try{
       HttpResponseMessage response = await chuckNorris.GetAsync("jokes/random");
       response.EnsureSuccessStatusCode();
@@ -17,8 +17,4 @@ class Program(){
        
     };
 }
-  static void Main(){
-    getJoke();
-   
-  }
 }
