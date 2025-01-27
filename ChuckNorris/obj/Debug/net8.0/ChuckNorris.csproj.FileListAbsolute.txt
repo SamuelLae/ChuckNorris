@@ -12,3 +12,4 @@ C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.
 C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.pdb
 C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.genruntimeconfig.cache
 C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ref\ChuckNorris.dll
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.sourcelink.json
