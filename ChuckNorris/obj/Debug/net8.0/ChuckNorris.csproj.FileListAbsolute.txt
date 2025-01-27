@@ -1,0 +1,14 @@
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.AssemblyInfoInputs.cache
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.AssemblyInfo.cs
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.csproj.CoreCompileInputs.cache
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\bin\Debug\net8.0\ChuckNorris.exe
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\bin\Debug\net8.0\ChuckNorris.deps.json
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\bin\Debug\net8.0\ChuckNorris.runtimeconfig.json
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\bin\Debug\net8.0\ChuckNorris.dll
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\bin\Debug\net8.0\ChuckNorris.pdb
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.dll
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\refint\ChuckNorris.dll
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.pdb
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.genruntimeconfig.cache
+C:\Users\sl8342\OneDrive\Programering\c#\ChuckNorris\ChuckNorris\obj\Debug\net8.0\ref\ChuckNorris.dll
